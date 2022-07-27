@@ -1,0 +1,22 @@
+{
+  "name": "crudapinodemongo",
+  "version": "1.0.0",
+  "description": "This is Crud And Api methods testing with Node And MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CRUD",
+    "API",
+    "with",
+    "NodeJs",
+    "and",
+    "MongoDB"
+  ],
+  "author": "Balu Goudi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
